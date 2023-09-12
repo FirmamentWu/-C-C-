@@ -16,6 +16,8 @@ int main()
 
         b=65535;
 
+
+       printf();
         u=b;
 
         ch='A';
